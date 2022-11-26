@@ -1,0 +1,135 @@
+/*main-parte1*/
+.main-parte1{
+    display: flex;
+    justify-self: center;
+    margin: 50px;
+}
+.main-parte1__article1{
+    display: flex;
+    flex-direction: column;
+    margin: 90px;
+}
+.main-parte1__article1-text1{
+    display: block;
+    width: 498px;
+    height: 120px;
+    justify-content:center;
+    align-items:center;
+    left: 215px;
+    top: 222px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 60px;
+    color: #18216D;
+}
+.main-parte1__article1-text2{
+    display: block;
+    width: 484px;
+    height: 56px;
+    justify-content:center;
+    align-items:center;
+    left: 215px;
+    top: 358px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 28px;
+    color: #18216D;
+}
+.main-parte1__article1-button{
+    width: 180px;
+    height: 66px;
+    align-items: flex-start;
+    left: 215px;
+    top: 448px;
+    background: #00ECD0;
+    border-radius: 6px;
+    border-color:#00ECD0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    color: #18216D;
+}
+.main-parte1__article2{
+    justify-self: start;
+    width: 786px;
+    height: 518.35px;
+    left: 617px;
+    top: 126.76px;
+}
+/*main-parte2*/
+.main-parte2{
+    display: flex;
+    justify-content: space-around;  
+}
+.main-parte2__content1-text{
+    display: block;
+    width: 494px;
+    height: 150px;
+    left: 215px;
+    top: 767px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 50px;
+    color: #18216D;
+}
+.main-parte2__content2{
+    width: 137px;
+    height: 134px;
+    left: 985px;
+    top: 767px;
+}
+.main-parte2__content3{
+    width: 107.28px;
+    height: 134px;
+    left: 1215px;
+    top: 767px;
+}
+.main-parte2__logo{
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+}
+.logo1{
+    width: 112.12px;
+    height: 34.88px;
+    left: 245px;
+    top: 966px;
+}
+.logo2{
+    width: 104.65px;
+    height: 29.9px;
+    left: 436.85px;
+    top: 968.49px;
+}
+.logo3{
+    width: 104.65px;
+    height: 34.88px;
+    left: 621.23px;
+    top: 966px;
+}
+.logo4{
+    width: 151.99px;
+    height: 32.39px;
+    left: 805.61px;
+    top: 967.25px;
+}
+.logo5{
+    width: 138.28px;
+    height: 32.39px;
+    left: 1037.32px;
+    top: 967.25px;
+}
+.logo6{
+    width: 99.66px;
+    height: 29.9px;
+    left: 1255.34px;
+    top: 968.49px;
+}
