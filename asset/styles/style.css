@@ -67,7 +67,7 @@
     display: flex;
     justify-content: space-around;  
 }
-.main-parte2__content1-text{
+.main-parte2__text{
     display: block;
     width: 494px;
     height: 150px;
@@ -80,19 +80,19 @@
     line-height: 50px;
     color: #18216D;
 }
-.main-parte2__content2{
+.main-parte2__downloads{
     width: 137px;
     height: 134px;
     left: 985px;
     top: 767px;
 }
-.main-parte2__content3{
+.main-parte2__rating{
     width: 107.28px;
     height: 134px;
     left: 1215px;
     top: 767px;
 }
-.main-parte2__logo{
+.main-parte2__collaboration-companies{
     display: flex;
     justify-content: space-around;
     padding: 80px;
