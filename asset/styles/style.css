@@ -133,3 +133,113 @@
     left: 1255.34px;
     top: 968.49px;
 }
+/*main-parte5*/
+.main-parte5{
+    display: flex;
+    padding: 60px;
+    
+}
+.main-parte5__article{
+    display: flex;
+    margin: 80px;
+    margin-right: 200px;
+    
+}
+.main-parte5__article1-foto{
+    width: 400px;
+    height: 450px;
+    left: 219px;
+    top: 2443px;
+    background: url(attractive-mixed-race-male-with-positive-smile-shows-white-teeth-keeps-hands-stomach-being-high-spirit-wears-white-shirt-rejoices-positive-moments-life-people-emotions-concept.jpg);
+    border-radius: 20px;
+}
+.main-parte5__article2-metting{
+    position: absolute;
+    text-align: center;
+    padding: 10px;
+    width: 184px;
+    height: 150px;
+    left: 470px;
+    top:1530px;
+    background: #FFFFFF;
+    box-shadow: -4px 8px 20px rgba(24, 33, 109, 0.05);
+    border-radius: 6px;
+}
+.main-parte5__button{
+    margin: 20px;
+    width: 100px;
+    height: 30px;
+    left: 578px;
+    top: 2905px;
+    background: #DAE9FF;
+    border-radius: 4px;
+    border-color: #DAE9FF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #005FEC;
+}
+.main-parte5__content{
+    margin: 50px;
+}
+.main-parte5__text1{
+    display: block;
+    width: 496px;
+    height: 96px;
+    left: 815px;
+    top: 2443px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 48px;
+    color: #18216D;
+}
+.main-parte5__text2{
+    display: block;
+    width: 446px;
+    height: 90px;
+    left: 815px;
+    top: 2555px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #18216D;
+}
+.paragraph{
+    width: 19.97px;
+    height: 19.97px;
+    left: 815.02px;
+    top: 2675px;
+}
+.roll{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    color: #18216D;
+}
+.roll__paragraph1, .roll__paragraph2, .roll__paragraph3{
+    margin-top: 20px;
+}
+.main-parte5__content-button{
+    width: 164px;
+    height: 54px;
+    left: 815px;
+    top: 2833px;
+    margin-top: 25px;
+    background: #005FEC;
+    border-radius: 6px;
+    border-color: #005FEC;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+  }
